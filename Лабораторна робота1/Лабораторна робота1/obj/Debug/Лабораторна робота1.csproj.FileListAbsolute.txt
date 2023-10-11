@@ -1,0 +1,7 @@
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\obj\Debug\Лабораторна робота1.csproj.AssemblyReference.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\obj\Debug\Лабораторна робота1.csproj.CoreCompileInputs.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\bin\Debug\Лабораторна робота1.exe.config
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\bin\Debug\Лабораторна робота1.exe
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\bin\Debug\Лабораторна робота1.pdb
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\obj\Debug\Лабораторна робота1.exe
+C:\Users\iceco\OneDrive\Рабочий стол\Лабораторна робота1\Лабораторна робота1\obj\Debug\Лабораторна робота1.pdb
